@@ -1,2 +1,2 @@
 # homeplate
-Why I live on the internet
+Where I live on the internet
